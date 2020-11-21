@@ -61,7 +61,6 @@ const newManager = () => {
   });
  
   promptUser(employeeQuestions).then((answers) => {
-  console.log("answers", answers);
   const employee = new Manager(answers.name, answers.id, answers.email, answers.officeNumber, "Manager")
   employeeArray.push(employee)
   newEmployee()})
