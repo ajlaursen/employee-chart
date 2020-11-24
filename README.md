@@ -2,12 +2,12 @@
 # Employee Chart
 
 ## Table of Contents
-[Description](##description)  
-[Installation](##Installation)  
-[Test](##Testing)  
-[Project Links](##live-Site-and-Repo)  
-[License](##License)  
-[Contributors](##Contributors)  
+[Description](#description)  
+[Installation](#Installation)  
+[Test](#Testing)  
+[Project Links](#live-Site-and-Repo)  
+[License](#License)  
+[Contributors](#Contributors)  
 
 ## Description
 * this is a dynamic employee flow chart generator. It prompts the user via inquirer about the employees. Then it dynamically displays the responses in HTML.
